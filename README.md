@@ -1,6 +1,6 @@
 # Lambda function for processing protocol buffers messages with AWS IoT Core
 
-## Part of the codecentric blog post ["Processing protocol buffers messages with AWS IoT Core"](https://blog.codecentric.de/en/2020/06/processing-protobufs-with-iot-core)
+## Part of the codecentric blog post ["Processing protocol buffers messages with AWS IoT Core"](https://blog.codecentric.de/en/2020/07/processing-protobufs-with-iot-core)
 
 This is the AWS Lambda code for processing protocol buffers messages and storing contained data into DynamoDB.
 
